@@ -6,9 +6,6 @@
   "author": "Brian Haak <avesus8@gmail.com>",
   "license": "MIT",
   "private": true,
-  "scripts": {
-    "prepare": "cd sub; npm install"
-  },
 
   "workspaces": [
     "sub"
