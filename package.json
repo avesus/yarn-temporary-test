@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "prepare": "touch created"
+    "prepare": "cd sub; npm install"
   },
 
   "workspaces": [
