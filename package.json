@@ -8,5 +8,9 @@
   "private": null,
   "scripts": {
     "prepare": "touch created"
-  }
+  },
+
+  "workspaces": [
+    "sub"
+  ]
 }

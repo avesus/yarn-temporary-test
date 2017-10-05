@@ -1,0 +1,12 @@
+{
+  "name": "sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "touch subcreated"
+  },
+  "author": "Brian Haak <avesus8@gmail.com> (https://github.com/avesus)",
+  "license": "MIT"
+}
