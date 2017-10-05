@@ -1,0 +1,12 @@
+{
+  "name": "yarn-temporary-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:avesus/yarn-temporary-test.git",
+  "author": "Brian Haak <avesus8@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "scripts": {
+    "prepare": "touch created"
+  }
+}
